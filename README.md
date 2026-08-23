@@ -69,7 +69,7 @@ I enjoy turning real-world requirements into clean, responsive, and functional s
 
 A web-based admission management system developed for Government Islamia Graduate College, Civil Lines, Lahore.
 
-**🌐 Live Website:** [GIGCCL Admission Portal](https://bsadmission.gigccl.edu.pk)
+**🌐 Live Website:** [GIGCCL Admission Portal](https://bsadmission.giccl.edu.pk)
 
 **Highlights:**
 
