@@ -109,7 +109,7 @@ A web-based system for monitoring teacher attendance and classroom status.
 
 ## 📜 Certifications
 
-- 🏆 **Microsoft Certified: Azure AI Fundamentals — TEVTA**
+- 🏆 **Microsoft Certified: Azure AI Fundamentals**
 - 🏆 **Full Stack Development — NAVTTC**
 
 ---
