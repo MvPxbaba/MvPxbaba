@@ -89,8 +89,6 @@ A web-based admission management system developed for Government Islamia Graduat
 
 A web-based system for monitoring teacher attendance and classroom status.
 
-**🌐 Live Website:** [Teacher Attendance Monitoring System](https://classcheck-gigccl.rf.gd)
-
 **Highlights:**
 
 - Teacher attendance tracking
