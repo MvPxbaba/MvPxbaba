@@ -89,6 +89,8 @@ A web-based admission management system developed for Government Islamia Graduat
 
 ### 📊 Teacher Attendance Monitoring System
 
+> 🔒 **Private / Institutional Project**
+
 A web-based system for monitoring teacher attendance and classroom status.
 
 **Highlights:**
@@ -101,9 +103,9 @@ A web-based system for monitoring teacher attendance and classroom status.
 - Testing and debugging
 - Deployment
 
-**Technologies:** PHP, MySQL, JavaScript, jQuery, Bootstrap
+**Technologies:** PHP | MySQL | JavaScript | jQuery | Bootstrap
 
-> The project source code is maintained in a private repository.
+> The project was developed for institutional use, so the source code and live system are not publicly accessible.
 
 ---
 
