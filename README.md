@@ -6,6 +6,8 @@ I'm a Junior Full-Stack Developer focused on building practical, database-driven
 
 I enjoy turning real-world requirements into clean, responsive, and functional software solutions while continuously learning new technologies.
 
+🌐 **Portfolio:** [abdulrehmanyousafe.me](https://abdulrehmanyousafe.me/)
+
 ---
 
 ## 👨‍💻 About Me
@@ -126,6 +128,7 @@ A web-based system for monitoring teacher attendance and classroom status.
 
 ## 📫 Connect With Me
 
+- 🌐 Portfolio: [abdulrehmanyousafe.me](https://abdulrehmanyousafe.me/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-yousafe)
 - 🐙 [GitHub](https://github.com/MvPxbaba)
 
