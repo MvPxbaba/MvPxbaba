@@ -129,8 +129,8 @@ A web-based system for monitoring teacher attendance and classroom status.
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: [abdulrehmanyousafe.me](https://abdulrehmanyousafe.me/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-yousafe)
-- 🐙 [GitHub](https://github.com/MvPxbaba)
+- 💼 LinkedIn: [Abdul Rehman Yousafe](https://www.linkedin.com/in/abdul-rehman-yousafe/)
+- 💻 GitHub: [MvPxbaba](https://github.com/MvPxbaba)
 
 ---
 
