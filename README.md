@@ -29,7 +29,7 @@ I enjoy turning real-world requirements into clean, responsive, and functional s
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -64,11 +64,6 @@ I enjoy turning real-world requirements into clean, responsive, and functional s
 [![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)](https://pages.github.com/)
 [![Custom DNS](https://img.shields.io/badge/Custom_DNS-FF6C37?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/learning/dns/what-is-dns/)
-
-### AI & Cloud
-
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![AI/ML Fundamentals](https://img.shields.io/badge/AI%2FML_Fundamentals-412991?style=flat&logo=googlebrain&logoColor=white)](https://learn.microsoft.com/en-us/training/azure/)
 
 ---
 
